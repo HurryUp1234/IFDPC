@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data_process/data/dataset/Iris.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_process/data/dataset/glass.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_process/data/dataset/seeds.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_process/data/dataset/wdbc.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_process/data/dataset/wine.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mesure/output.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/mesure/property.txt" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

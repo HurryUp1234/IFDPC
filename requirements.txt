@@ -1,0 +1,11 @@
+scikit-learn
+numpy
+pandas
+matplotlib
+# collections
+scipy
+# io
+# random
+networkx
+openpyxl
+#PIL
